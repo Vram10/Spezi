@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {2}Das Ziel der Ausarbeitung}{1}{section.2}%
 \contentsline {section}{\numberline {3}Kern der Arbeit}{1}{section.3}%
 \contentsline {section}{\numberline {4}Mögliche Fragen zum beantworten}{2}{section.4}%
-\contentsline {section}{\numberline {5}Theorien mit denen wir uns auseinander setzen wollen}{2}{section.5}%
+\contentsline {section}{\numberline {5}Theorien mit denen wir uns auseinander setzen}{2}{section.5}%
+\contentsline {section}{\numberline {6}Literatur}{3}{section.6}%

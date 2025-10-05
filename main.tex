@@ -7,7 +7,7 @@
 \usepackage{csquotes}
 
 % documentation: https://ctan.kako-dev.de/macros/latex/contrib/biblatex/doc/biblatex.pdf
-\usepackage[style=authoryear,sorting=nyt]{biblatex}
+\usepackage[backend=biber, style=authoryear]{biblatex}
 \addbibresource{references.bib}
 
 % um Grafiken einzubinden, {Angabe des Pfades der Bilder}
@@ -53,9 +53,15 @@
     \section{Mögliche Fragen zum beantworten}
         \input{sections/fragen}
     
-    \section{Theorien mit denen wir uns auseinander setzen wollen}
+    \section{Theorien mit denen wir uns auseinander setzen}
         \input{sections/praxis}
-    
+            
     \newpage
+    
+    \section{Literatur}
+    	\printbibliography
+    	
+    \newpage
+    \cite{}
 
 \end{document}
