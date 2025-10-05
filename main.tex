@@ -1,11 +1,7 @@
-% Referenzprojekt: https://www.overleaf.com/project/51fa85c3db89c3c351085071
-% aus Tutorial-Serie: https://de.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1):_Basic_Structure
 
 \documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
-% Deutsch: https://de.overleaf.com/learn/German
-% "`	Left double quotes
-% "'	Right double quotes
+
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 \usepackage{csquotes}
@@ -33,11 +29,6 @@
   citecolor    = red      % Colour of citations
 }
 
-% Infos über Dokument
-\title{Ich habe starke schmerzen }
-\author{Joe Mama}
-\date{\today}
-
 \begin{document}
 
     \input{titlepage}
@@ -53,17 +44,18 @@
     
     \section{Das Ziel der Ausarbeitung} 
         \input{sections/ziel}
+
+    \section{Kern der Arbeit}
+        \input{sections/kern.tex}    
+
+    \newpage    
     
-    \section{Fragen, welche wir beantworten wollen}
+    \section{Mögliche Fragen zum beantworten}
         \input{sections/fragen}
     
-    \section{Theorie und Modelle}
+    \section{Theorien mit denen wir uns auseinander setzen wollen}
         \input{sections/praxis}
     
-    \section{Fazit}
-        \input{sections/fazit}
-    
     \newpage
-    \printbibliography
 
 \end{document}
