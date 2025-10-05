@@ -1,17 +1,9 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'main.blg'
-[88] biber-MSWIN64:342> INFO - === 
-[118] Biber.pm:421> INFO - Reading 'main.bcf'
-[208] Biber.pm:1002> INFO - Found 8 citekeys in bib section 0
-[220] Biber.pm:4487> INFO - Processing section 0
-[230] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
-[266] bibtex.pm:1713> INFO - LaTeX decoding ...
-[273] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[354] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[354] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'de-DE'
-[354] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
-[365] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[369] bbl.pm:779> INFO - Output to main.bbl
-[369] Biber.pm:132> WARN - legacy year field 'o. J.' in entry 'online:intro' is not an integer - this will probably not sort properly.
-[369] Biber.pm:134> INFO - WARNINGS: 1
+[160] biber-MSWIN64:342> INFO - === 
+[238] Biber.pm:421> INFO - Reading 'main.bcf'
+[440] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[495] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[496] bbl.pm:779> INFO - Output to main.bbl
+[510] Biber.pm:132> WARN - The file 'main.bcf' does not contain any citations!
+[511] Biber.pm:134> INFO - WARNINGS: 1

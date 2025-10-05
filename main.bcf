@@ -2374,18 +2374,6 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">pro_git</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">art:transition</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">online:intro</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">book:svn</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">online:intro</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">10.1371/journal.pcbi.1004668</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">book:svn</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">book:svn</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">pro_git</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">mercurial_guide</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">Grassmuck2004</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">git_vs_mer</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
