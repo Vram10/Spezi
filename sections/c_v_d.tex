@@ -1,0 +1,16 @@
+Versionskontrollsysteme werden hauptsächlich in zentrale (von engl. \textit{centralized}) und verteilte (von engl. \textit{distributed}) Systeme unterschieden. Daneben gibt es noch 
+lokale Versionskontrolle\footcite[Siehe][S. 1]{pro_git}, die sich nur auf einen Rechner und meist nur ein Dokument beschränkt.
+
+\subsection{Centralized}
+	Zentralte Versionskontrollsysteme sind mit dem Client-Server abgebildet, wobei der Server meist nur Schnappschüsse, sprich die 
+	Versionen von Dateien speichert\footcite[Vgl.][S. 671]{art:transition} und die Beteiligten sich nur mit dem Server synchronisieren.
+
+\subsection{Distributed}
+	Der Begriff \textit{verteilt} bedeutet in diesem Kontext, dass alle Beteiligten durch lokale Repositories die komplette Historie aller Dateien haben und sich untereinander synchronisieren (Peer-to-Peer).\\
+	Man spricht nicht mehr von Versionen, sondern von Revisions, also Änderungen an einer Datei (zb. neue Zeile 10: "Hallo Welt").
+	\footcite[Siehe][für anschauliche Beispiele]{online:intro}
+
+\subsection{Vor-/Nachteile}
+	Hier werden die jeweiligen Vor- und Nachteile der beiden Systeme betrachtet und als Übersicht in Trade-offs verpackt.\\
+	Beispiel zentrale Systeme: Abhängigkeit eines Servers dafür mehr Kontrolle des Workflows (zb. durch Locking\footcite[Erklärung des Mechanisumses][S. 3-4]{book:svn})\\
+	Beispiel verteilte Systeme: Es läuft offline und schnell dafür keine "`neuste Version"'\footcite[Vgl.][]{online:intro}

@@ -1,0 +1,347 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{online:intro}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a259069a2d8fe9b2a9b8df3b4f5fc38}{%
+           family={Azad},
+           familyi={A\bibinitperiod},
+           given={Kalid},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{fullhash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{fullhashraw}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{bibnamehash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{authorbibnamehash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{authornamehash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{authorfullhash}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \strng{authorfullhashraw}{7a259069a2d8fe9b2a9b8df3b4f5fc38}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intro to Distributed Version Control}
+      \field{urlday}{31}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{o. J.}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+      \endverb
+      \verb{url}
+      \verb https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+      \endverb
+    \endentry
+    \entry{10.1371/journal.pcbi.1004668}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2f5e7eff1ecea61dc6faa885ab2fdf03}{%
+           family={Blischak},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=563b1377731d4156367a12b2a6a53ed7}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Emily\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fda30198609a1ab29a82b93d4e8f347b}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{fullhash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{fullhashraw}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{bibnamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authorbibnamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authornamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authorfullhash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authorfullhashraw}{475717815cde8b823fb8ad2c659e33e2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{A Quick Introduction to Version Control with Git and GitHub}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1004668
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pcbi.1004668
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pcbi.1004668
+      \endverb
+    \endentry
+    \entry{mercurial_guide}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eaf4889ee7419d63390f35cf8b83eef8}{%
+           family={Bryan},
+           familyi={B\bibinitperiod},
+           given={O'Sullivan},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O’Reilly Media}%
+      }
+      \strng{namehash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{fullhash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{fullhashraw}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{bibnamehash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{authorbibnamehash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{authornamehash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{authorfullhash}{eaf4889ee7419d63390f35cf8b83eef8}
+      \strng{authorfullhashraw}{eaf4889ee7419d63390f35cf8b83eef8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercurial: The Definitive Guide}
+      \field{year}{2009}
+    \endentry
+    \entry{book:svn}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ee27eba3d96b8bc6183e8af5c9c618c7}{%
+           family={C.\bibnamedelimi Michael},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Pilato},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=ff58057f1022fa01714fe85874305218}{%
+           family={Ben},
+           familyi={B\bibinitperiod},
+           given={Collins-Sussman},
+           giveni={C\bibinithyphendelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=805f1f516afd5ce1f2786fddfe3ac09c}{%
+           family={Brian},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O’Reilly Media}%
+      }
+      \strng{namehash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{fullhash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{fullhashraw}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{bibnamehash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{authorbibnamehash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{authornamehash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{authorfullhash}{06bea11ce45512ccaddb9b43be01a67d}
+      \strng{authorfullhashraw}{06bea11ce45512ccaddb9b43be01a67d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Version Control with Subversion: Next Generation Open Source Version Control}
+      \field{year}{2008}
+    \endentry
+    \entry{Grassmuck2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=578764e7917031b6aea40ca75d3403c5}{%
+           family={Grassmuck},
+           familyi={G\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {deu}%
+      }
+      \list{publisher}{1}{%
+        {Bundeszentrale für politische Bildung}%
+      }
+      \strng{namehash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{fullhash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{fullhashraw}{578764e7917031b6aea40ca75d3403c5}
+      \strng{bibnamehash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{authorbibnamehash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{authornamehash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{authorfullhash}{578764e7917031b6aea40ca75d3403c5}
+      \strng{authorfullhashraw}{578764e7917031b6aea40ca75d3403c5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3893315691}
+      \field{title}{Freie Software. Zwischen Privat- und Gemeineigentum}
+      \field{year}{2004}
+      \verb{doi}
+      \verb http://dx.doi.org/10.25969/mediarep/3575
+      \endverb
+      \verb{urlraw}
+      \verb https://mediarep.org/handle/doc/4317
+      \endverb
+      \verb{url}
+      \verb https://mediarep.org/handle/doc/4317
+      \endverb
+    \endentry
+    \entry{git_vs_mer}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19e0dc4cd5490170038f71a9c93f23f1}{%
+           family={Kirmanen},
+           familyi={K\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{fullhash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{fullhashraw}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{bibnamehash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{authorbibnamehash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{authornamehash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{authorfullhash}{19e0dc4cd5490170038f71a9c93f23f1}
+      \strng{authorfullhashraw}{19e0dc4cd5490170038f71a9c93f23f1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Git oder Mercurial: Was sollte man nutzen?}
+      \field{urlday}{29}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://entwickler.de/online/development/git-mercurial-versionskontrollsystem-vergleich-579792235.html
+      \endverb
+      \verb{url}
+      \verb https://entwickler.de/online/development/git-mercurial-versionskontrollsystem-vergleich-579792235.html
+      \endverb
+    \endentry
+    \entry{art:transition}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=04f3cce7095403d5c8c85dd9582c3466}{%
+           family={Kivanc},
+           familyi={K\bibinitperiod},
+           given={Muslu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81eaccc2bba3a8e76a794c226b84a381}{%
+           family={Christian},
+           familyi={C\bibinitperiod},
+           given={Bird},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f66dcdce734b21ff95b17229fbdf4813}{%
+           family={Nachiappan},
+           familyi={N\bibinitperiod},
+           given={Nagappan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3713c9108964dcaaa97cfd37397a0cd1}{%
+           family={Jacek},
+           familyi={J\bibinitperiod},
+           given={Czerwonka},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{922be7b44ac1f9e0e03b5244e624d2f4}
+      \strng{fullhash}{3d81625576908e0106f90e067c906035}
+      \strng{fullhashraw}{3d81625576908e0106f90e067c906035}
+      \strng{bibnamehash}{922be7b44ac1f9e0e03b5244e624d2f4}
+      \strng{authorbibnamehash}{922be7b44ac1f9e0e03b5244e624d2f4}
+      \strng{authornamehash}{922be7b44ac1f9e0e03b5244e624d2f4}
+      \strng{authorfullhash}{3d81625576908e0106f90e067c906035}
+      \strng{authorfullhashraw}{3d81625576908e0106f90e067c906035}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ICSE}
+      \field{title}{Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes}
+      \field{year}{2014}
+    \endentry
+    \entry{pro_git}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b3b2f9df8759c24aaa54c5f638e8cb9}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Chacon},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=9618c306afd76662d6f28829ac15cc43}{%
+           family={Ben},
+           familyi={B\bibinitperiod},
+           given={Straub},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{fullhash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{fullhashraw}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{bibnamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{authorbibnamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{authornamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{authorfullhash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \strng{authorfullhashraw}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Pro Git}
+      \field{year}{2010}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
