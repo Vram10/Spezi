@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,40 +18,71 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
-    \entry{pro_git}{book}{}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{acar2018}{book}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6b3b2f9df8759c24aaa54c5f638e8cb9}{%
-           family={Scott},
-           familyi={S\bibinitperiod},
-           given={Chacon},
-           giveni={C\bibinitperiod},
+        {{un=0,uniquepart=base,hash=74e7fb32bf621dbea311276fdf222d34}{%
+           family={ABBAS\bibnamedelima ACAR},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={HIDAYET\bibnamedelima AKSU},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=9618c306afd76662d6f28829ac15cc43}{%
-           family={Ben},
-           familyi={B\bibinitperiod},
-           given={Straub},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c64fc8241017b57f5aebc9f8e6e74858}{%
+           family={A.\bibnamedelimi SELCUK\bibnamedelima ULUAGAC},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={MAURO\bibnamedelima CONTI},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Apress}%
+        {Association for Computing Machinery}%
       }
-      \strng{namehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \strng{fullhash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \strng{bibnamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \strng{authorbibnamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \strng{authornamehash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \strng{authorfullhash}{8e3d7a5ebb1cc4b6ac451b0940455fcc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{fullhash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{fullhashraw}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{bibnamehash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{authorbibnamehash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{authornamehash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{authorfullhash}{d307d30d6a5497540a4f5c0b504a6814}
+      \strng{authorfullhashraw}{d307d30d6a5497540a4f5c0b504a6814}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{2}
-      \field{title}{Pro Git}
-      \field{year}{2010}
+      \field{title}{A Survey on Homomorphic Encryption Schemes: Theory and Implementation}
+      \field{year}{July 2018}
+    \endentry
+    \entry{buell2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd0c71c2707c98223b5dcbe9c7180416}{%
+           family={Buell},
+           familyi={B\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vieweg}%
+      }
+      \strng{namehash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{fullhash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{fullhashraw}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{bibnamehash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{authorbibnamehash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{authornamehash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{authorfullhash}{fd0c71c2707c98223b5dcbe9c7180416}
+      \strng{authorfullhashraw}{fd0c71c2707c98223b5dcbe9c7180416}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-031-50432-7}
+      \field{title}{Grundlagen der Kryptographie}
+      \field{year}{2024}
     \endentry
   \enddatalist
 \endrefsection
