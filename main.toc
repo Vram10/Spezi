@@ -2,6 +2,7 @@
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
 \contentsline {section}{\numberline {2}Das Ziel der Ausarbeitung}{1}{section.2}%
 \contentsline {section}{\numberline {3}Kern der Arbeit}{1}{section.3}%
-\contentsline {section}{\numberline {4}Mögliche Fragen zum beantworten}{2}{section.4}%
-\contentsline {section}{\numberline {5}Theorien mit denen wir uns auseinander setzen}{2}{section.5}%
-\contentsline {section}{\numberline {6}Literatur}{3}{section.6}%
+\contentsline {section}{\numberline {4}Forschungsfragen}{2}{section.4}%
+\contentsline {section}{\numberline {5}Theorien}{2}{section.5}%
+\contentsline {section}{\numberline {6}Methodisches Vorgehen}{3}{section.6}%
+\contentsline {section}{\numberline {7}Literatur}{4}{section.7}%
